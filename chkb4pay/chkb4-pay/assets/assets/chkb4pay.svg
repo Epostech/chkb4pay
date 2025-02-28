@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 534 200">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 24.34px;
+      }
+
+      .st0, .st1, .st2 {
+        font-family: Graphik-Semibold, Graphik;
+        font-weight: 600;
+      }
+
+      .st0, .st3, .st4 {
+        fill: #df321e;
+      }
+
+      .st5, .st6 {
+        font-family: DhanikansSignature2-Regular, 'Dhanikans Signature 2';
+        font-size: 98.51px;
+      }
+
+      .st5, .st6, .st4 {
+        display: none;
+      }
+
+      .st6 {
+        fill: #fff;
+      }
+
+      .st7 {
+        font-family: Graphik-Bold, Graphik;
+        font-size: 56.96px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        font-size: 154.95px;
+      }
+
+      .st2 {
+        font-size: 131.62px;
+      }
+
+      .st4 {
+        opacity: .39;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="st1" transform="translate(-4.42 179.69)"><tspan x="0" y="0">C</tspan></text>
+    <text class="st1" transform="translate(103.4 176.6)"><tspan x="0" y="0">h</tspan></text>
+    <path class="st3" d="M161.03,100.61l27.86,75.85c.06.17.28.2.38.06,5.17-7.36,94.34-132.09,196.39-133.97l14.42-39s-109.76,21.13-200,133.37l-11.91-37.25c-.35-1.09-1.36-1.83-2.5-1.84l-22.6-.12c-1.5,0-2.55,1.49-2.03,2.9Z"/>
+    <text class="st6" transform="translate(216 167.99)"><tspan x="0" y="0">before</tspan></text>
+    <text class="st5" transform="translate(214.98 166.96)"><tspan x="0" y="0">before</tspan></text>
+    <g>
+      <path class="st4" d="M413.99,41.71s20.33-29.74,58.54-16.75c0,0,32.94,11.55,32.38,47,0,0,1.88,28.86-25.6,44.3,0,0-38.97,22.4-66.45-16.19,0,0,7.91,21.46,40.47,27.48,0,0,30.49,4.52,50.26-20.52,0,0,14.12-15.81,12.24-39.15,0,0,.38-25.41-25.04-42.17,0,0-42.17-28.99-76.8,16Z"/>
+      <path class="st3" d="M490.6,87.45s6.78-25.22-9.04-45.55l-43.67-2.26s23.91,28.61,23.72,70.21c0,0,7.15-35.95-7.53-60.42h25.04s10.14,7.49,11.48,38.02Z"/>
+      <path class="st3" d="M440.53,53.19l-14.49,6.96s21.46,14.31,31.25,50.82c0,0-22.78-43.29-51.39-53.65l30.12-11.29,4.52,7.15Z"/>
+      <path class="st3" d="M407.78,65.61l7.72,5.27-9.6,10.16s25.79,5.08,46.31,31.06c0,0-33.88-24.85-66.26-24.47l21.84-22.02Z"/>
+    </g>
+    <text class="st2" transform="translate(241.34 176.38)"><tspan x="0" y="0">Pay</tspan></text>
+    <text class="st0" transform="translate(465.48 74.33)"><tspan x="0" y="0">$</tspan></text>
+  </g>
+  <text class="st7" transform="translate(175.28 97.63)"><tspan x="0" y="0">B4</tspan></text>
+</svg>
